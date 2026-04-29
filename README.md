@@ -75,3 +75,5 @@ npm run dev
 
 - 原作仓库：[https://github.com/nagisa77/OpenIsle](https://github.com/nagisa77/OpenIsle)
 - 感谢原作及所有开源贡献者
+
+版权所有 (c) 2026 kyl126
