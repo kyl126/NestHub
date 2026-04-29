@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-OpenIsleApplication<openisle>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.openisle.OpenIsleApplication",
+            "projectName": "openisle",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env",
+            "vmArgs": " -Dcom.sun.management.jmxremote -Dcom.sun.management.jmxremote.port=52675 -Dcom.sun.management.jmxremote.authenticate=false -Dcom.sun.management.jmxremote.ssl=false -Dspring.jmx.enabled=true -Djava.rmi.server.hostname=localhost -Dspring.application.admin.enabled=true -Dspring.boot.project.name=openisle"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-WebsocketServiceApplication<websocket-service>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.openisle.websocket.WebsocketServiceApplication",
+            "projectName": "websocket-service",
+            "args": "--server.port=8082",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
