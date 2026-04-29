@@ -68,3 +68,10 @@ mvn spring-boot:run
 cd frontend
 npm install
 npm run dev
+
+## 📋 授权与致谢
+
+本项目基于 [OpenIsle](https://github.com/nagisa77/OpenIsle) 二次开发，遵循原项目 MIT License 发布。
+
+- 原作仓库：[https://github.com/nagisa77/OpenIsle](https://github.com/nagisa77/OpenIsle)
+- 感谢原作及所有开源贡献者
