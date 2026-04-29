@@ -20,12 +20,12 @@
 
 ## 🖼️ 产品截图
 
-![频道](images/频道.png)
-![子频道](images/子频道.png)
-![频道群聊](images/频道群聊.png)
-![消息弹窗](images/消息弹窗.png)
-![用户管理](images/用户管理.png)
-![管理](images/管理.png)
+![频道](Nesthub/images/频道.png)
+![子频道](Nesthub/images/子频道.png)
+![频道群聊](Nesthub/images/频道群聊.png)
+![消息弹窗](Nesthub/images/消息弹窗.png)
+![用户管理](Nesthub/images/用户管理.png)
+![管理](Nesthub/images/管理.png)
 
 ## ✨ 原项目已有功能
 
