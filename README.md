@@ -56,7 +56,7 @@ Nesthub 是一个基于 OpenIsle 二次开发的全栈技术社区平台，使�
 
 ```bash
 # 克隆项目
-git clone [你的仓库地址]
+git clone https://github.com/kyl126/NestHub.git
 
 # 后端配置
 cd backend
